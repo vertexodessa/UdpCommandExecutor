@@ -32,6 +32,5 @@
 *.app
 /toolchain/
 /toolchain.sigmastar-infinity6e.tgz
-/udp_command_executor_star6e
 /version.h
 /firmware/
